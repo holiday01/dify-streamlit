@@ -3,7 +3,7 @@ import streamlit as st
 
 dify_api_key = KEY_API
 
-url = "https://d.biobank.org.tw/v1/workflows/run"
+url = "https://api.dify.ai/v1//workflows/run"
 
 st.title("Dify Streamlit App")
 
